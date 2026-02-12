@@ -1,0 +1,17 @@
+D:\ASP.NET\SchoolManagementSystem\SMS.BLL\bin\Debug\net8.0\SMS.BLL.deps.json
+D:\ASP.NET\SchoolManagementSystem\SMS.BLL\bin\Debug\net8.0\SMS.BLL.dll
+D:\ASP.NET\SchoolManagementSystem\SMS.BLL\bin\Debug\net8.0\SMS.BLL.pdb
+D:\ASP.NET\SchoolManagementSystem\SMS.BLL\bin\Debug\net8.0\SMS.DAL.dll
+D:\ASP.NET\SchoolManagementSystem\SMS.BLL\bin\Debug\net8.0\SMS.Models.dll
+D:\ASP.NET\SchoolManagementSystem\SMS.BLL\bin\Debug\net8.0\SMS.DAL.pdb
+D:\ASP.NET\SchoolManagementSystem\SMS.BLL\bin\Debug\net8.0\SMS.Models.pdb
+D:\ASP.NET\SchoolManagementSystem\SMS.BLL\obj\Debug\net8.0\SMS.BLL.csproj.AssemblyReference.cache
+D:\ASP.NET\SchoolManagementSystem\SMS.BLL\obj\Debug\net8.0\SMS.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET\SchoolManagementSystem\SMS.BLL\obj\Debug\net8.0\SMS.BLL.AssemblyInfoInputs.cache
+D:\ASP.NET\SchoolManagementSystem\SMS.BLL\obj\Debug\net8.0\SMS.BLL.AssemblyInfo.cs
+D:\ASP.NET\SchoolManagementSystem\SMS.BLL\obj\Debug\net8.0\SMS.BLL.csproj.CoreCompileInputs.cache
+D:\ASP.NET\SchoolManagementSystem\SMS.BLL\obj\Debug\net8.0\SMS.BLL.csproj.Up2Date
+D:\ASP.NET\SchoolManagementSystem\SMS.BLL\obj\Debug\net8.0\SMS.BLL.dll
+D:\ASP.NET\SchoolManagementSystem\SMS.BLL\obj\Debug\net8.0\refint\SMS.BLL.dll
+D:\ASP.NET\SchoolManagementSystem\SMS.BLL\obj\Debug\net8.0\SMS.BLL.pdb
+D:\ASP.NET\SchoolManagementSystem\SMS.BLL\obj\Debug\net8.0\ref\SMS.BLL.dll

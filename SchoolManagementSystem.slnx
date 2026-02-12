@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SMS.BLL/SMS.BLL.csproj" />
+  <Project Path="SMS.DAL/SMS.DAL.csproj" />
+  <Project Path="SMS.Models/SMS.Models.csproj" />
+  <Project Path="SMS.Web/SMS.Web.csproj" />
+</Solution>

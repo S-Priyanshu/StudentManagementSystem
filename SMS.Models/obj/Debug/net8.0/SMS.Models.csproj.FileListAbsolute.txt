@@ -1,0 +1,11 @@
+D:\ASP.NET\SchoolManagementSystem\SMS.Models\bin\Debug\net8.0\SMS.Models.deps.json
+D:\ASP.NET\SchoolManagementSystem\SMS.Models\bin\Debug\net8.0\SMS.Models.dll
+D:\ASP.NET\SchoolManagementSystem\SMS.Models\bin\Debug\net8.0\SMS.Models.pdb
+D:\ASP.NET\SchoolManagementSystem\SMS.Models\obj\Debug\net8.0\SMS.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET\SchoolManagementSystem\SMS.Models\obj\Debug\net8.0\SMS.Models.AssemblyInfoInputs.cache
+D:\ASP.NET\SchoolManagementSystem\SMS.Models\obj\Debug\net8.0\SMS.Models.AssemblyInfo.cs
+D:\ASP.NET\SchoolManagementSystem\SMS.Models\obj\Debug\net8.0\SMS.Models.csproj.CoreCompileInputs.cache
+D:\ASP.NET\SchoolManagementSystem\SMS.Models\obj\Debug\net8.0\SMS.Models.dll
+D:\ASP.NET\SchoolManagementSystem\SMS.Models\obj\Debug\net8.0\refint\SMS.Models.dll
+D:\ASP.NET\SchoolManagementSystem\SMS.Models\obj\Debug\net8.0\SMS.Models.pdb
+D:\ASP.NET\SchoolManagementSystem\SMS.Models\obj\Debug\net8.0\ref\SMS.Models.dll
